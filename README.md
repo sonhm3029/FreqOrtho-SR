@@ -1,5 +1,3 @@
-# FreqOrtho-SR
-
 <div align="center">
 <h2>FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution</h2>
 
