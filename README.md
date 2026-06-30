@@ -73,11 +73,7 @@ Increasing `lambda_pix` strengthens pixel-level restoration and degradation remo
 
 The following numbers are reported in the ECCV 2026 paper for one-step diffusion-based SR comparisons.
 
-| Dataset | PSNR (higher) | SSIM (higher) | LPIPS (lower) | DISTS (lower) | FID (lower) | NIQE (lower) | MANIQA (higher) |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| RealSR | 26.27 | 0.7481 | 0.2537 | 0.1951 | 108.91 | 5.32 | 0.6586 |
-| DRealSR | 29.08 | 0.7911 | 0.2799 | 0.2110 | 130.85 | 6.29 | 0.6182 |
-| DIV2K | 24.35 | 0.6189 | 0.2748 | 0.1889 | 23.54 | 4.63 | 0.6355 |
+![quantitative_results](figs/quantitative_results.png)
 
 ### Subspace Orthogonality
 
