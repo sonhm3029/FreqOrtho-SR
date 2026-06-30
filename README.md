@@ -18,14 +18,18 @@ School of Computing, KAIST, Republic of Korea
 <br>
 
 [![ECCV 2026](https://img.shields.io/badge/ECCV-2026-blue)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.28745-b31b1b)](https://arxiv.org/abs/2606.28745)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/sonhm3029/FreqOrtho-SR)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
+
+[[Paper](https://arxiv.org/abs/2606.28745)] [[PDF](https://arxiv.org/pdf/2606.28745)] [[Code](https://github.com/sonhm3029/FreqOrtho-SR)]
 
 </div>
 
 ## Updates
 
-- **2026.06.26**: Initial code release for FreqOrtho-SR. Paper, pretrained checkpoints, and project links will be added once they are public.
+- **2026.06.27**: Paper is available on arXiv: [arXiv:2606.28745](https://arxiv.org/abs/2606.28745).
+- **2026.06.26**: Initial code release for FreqOrtho-SR. Pretrained checkpoints and project links will be added once they are public.
 
 ## Overview
 
@@ -304,11 +308,14 @@ scripts/test/eval_metrics.sh
 If this repository helps your research, please cite our paper:
 
 ```bibtex
-@inproceedings{hoang2026freqorthosr,
-  title={{FreqOrtho-SR}: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution},
-  author={{Minh Son Hoang} and {Dinh Phu Tran} and {Quyen Nguyen Duc} and {Dam Hoang Phuong} and {Daeyoung Kim}},
-  booktitle={Proceedings of the European Conference on Computer Vision},
-  year={2026}
+@misc{hoang2026freqorthosrfrequencyguidedorthogonalexpert,
+  title={FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution},
+  author={Minh Son Hoang and Dinh Phu Tran and Quyen Nguyen Duc and Dam Hoang Phuong and Daeyoung Kim},
+  year={2026},
+  eprint={2606.28745},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2606.28745}
 }
 ```
 
