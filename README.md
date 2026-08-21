@@ -28,6 +28,7 @@ School of Computing, KAIST, Republic of Korea
 
 ## Updates
 
+- **2026.08.21**: Pretrained checkpoint released on [Google Drive](https://drive.google.com/drive/folders/19UrZGeJZBJ5h4omqRmEOLqoTx-Mk36HF?usp=sharing).
 - **2026.06.27**: Paper is available on arXiv: [arXiv:2606.28745](https://arxiv.org/abs/2606.28745).
 - **2026.06.26**: Initial code release for FreqOrtho-SR. Pretrained checkpoints and project links will be added once they are public.
 
@@ -117,7 +118,7 @@ Download the required pretrained models:
 
 - Stable Diffusion 2.1-base from [Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-2-1-base), saved for example under `preset/models/SD21`.
 - RAM checkpoint `ram_swin_large_14m.pth` from [Recognize Anything](https://huggingface.co/spaces/xinyu1205/recognize-anything/blob/main/ram_swin_large_14m.pth), saved to `src/ram_pretrain_model/ram_swin_large_14m.pth`.
-- FreqOrtho-SR checkpoint, saved for example as `preset/models/freqortho_sr.pkl`. If the pretrained checkpoint is not yet public, use a locally trained checkpoint from `experiments/.../checkpoints/model_*.pkl`.
+- FreqOrtho-SR checkpoint from [Google Drive](https://drive.google.com/drive/folders/19UrZGeJZBJ5h4omqRmEOLqoTx-Mk36HF?usp=sharing), saved as `preset/models/freqortho_sr.pkl`. Alternatively, use a locally trained checkpoint from `experiments/.../checkpoints/model_*.pkl`.
 
 ## Quick Inference
 
