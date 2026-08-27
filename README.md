@@ -28,6 +28,7 @@ School of Computing, KAIST, Republic of Korea
 
 ## Updates
 
+- **2026.08.27**: Test results on DIV2K, DrealSR, and RealSR released on [Google Drive](https://drive.google.com/drive/folders/19UrZGeJZBJ5h4omqRmEOLqoTx-Mk36HF?usp=sharing).
 - **2026.08.21**: Pretrained checkpoint released on [Google Drive](https://drive.google.com/drive/folders/19UrZGeJZBJ5h4omqRmEOLqoTx-Mk36HF?usp=sharing).
 - **2026.06.27**: Paper is available on arXiv: [arXiv:2606.28745](https://arxiv.org/abs/2606.28745).
 - **2026.06.26**: Initial code release for FreqOrtho-SR. Pretrained checkpoints and project links will be added once they are public.
